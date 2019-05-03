@@ -50,14 +50,14 @@ logging (logging_a)
 			break;
 		case nano::nano_networks::nano_live_network:
 			preconfigured_peers.push_back (default_live_peer_network);
-			preconfigured_representatives.emplace_back ("A30E0A32ED41C8607AA9212843392E853FCBCB4E7CB194E35C94F07F91DE59EF");
-			preconfigured_representatives.emplace_back ("67556D31DDFC2A440BF6147501449B4CB9572278D034EE686A6BEE29851681DF");
-			preconfigured_representatives.emplace_back ("5C2FBB148E006A8E8BA7A75DD86C9FE00C83F5FFDBFD76EAA09531071436B6AF");
-			preconfigured_representatives.emplace_back ("AE7AC63990DAAAF2A69BF11C913B928844BF5012355456F2F164166464024B29");
-			preconfigured_representatives.emplace_back ("BD6267D6ECD8038327D2BCC0850BDF8F56EC0414912207E81BCF90DFAC8A4AAA");
-			preconfigured_representatives.emplace_back ("2399A083C600AA0572F5E36247D978FCFC840405F8D4B6D33161C0066A55F431");
-			preconfigured_representatives.emplace_back ("2298FAB7C61058E77EA554CB93EDEEDA0692CBFCC540AB213B2836B29029E23A");
-			preconfigured_representatives.emplace_back ("3FE80B4BC842E82C1C18ABFEEC47EA989E63953BC82AC411F304D13833D52A56");
+			preconfigured_representatives.emplace_back ("E96F3857E573C5CD8EFBEDC179D7B567178F0AE28B5FE8E9B838B7200C81D323");
+			preconfigured_representatives.emplace_back ("92FB6A1CD54288DA0C6D3DFB61B72BF208AF9BF174363E12A81F04423AD5F3C3");
+			preconfigured_representatives.emplace_back ("40AEBAB389EF49E66F05FE7121E01EAC3EE0DF4CDFAFF602E8FD7194F4355371");
+			preconfigured_representatives.emplace_back ("B16D96A51A90B85FAB54EB0AEF1E4EE49E0F0D94EACE65C23EA77A1E5B5343D4");
+			preconfigured_representatives.emplace_back ("C544A5AB0F4C44D3B35D983273FC39A3409FEE508103B5FD338EBDD134C1C59C");
+			preconfigured_representatives.emplace_back ("2ADF5BB0EC04A1E312FB097BB61DB5E0213A5B6AE1EA647E98721E57FAF02830");
+			preconfigured_representatives.emplace_back ("C0007508C27770CB17309152AF83731301E391A2B2692B102990094EF564B367");
+			preconfigured_representatives.emplace_back ("32F3FEDFCADECEB885194284A69F75A73663D5EA78FAAE9FEBF6B632890DAEE0");
 			break;
 		default:
 			assert (false);

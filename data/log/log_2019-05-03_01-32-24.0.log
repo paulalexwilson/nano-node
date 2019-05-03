@@ -1,0 +1,12 @@
+[2019-05-03 01:32:24.580549]: Completed sideband upgrade
+[2019-05-03 01:32:24.627916]: Node starting, version: 20.0
+[2019-05-03 01:32:24.627957]: Work pool running 1 threads
+[2019-05-03 01:32:24.628071]: Node ID: nano_1jifo6frrdjbeaj4mttxixp9j91gkws1iwntsn3b8anc9o4xz8rrsgz45cr4
+[2019-05-03 01:32:24.635499]: Starting bootstrap attempt
+[2019-05-03 01:32:24.635604]: Bootstrap stopped because there are no peers
+[2019-05-03 01:32:24.635636]: IPC: server started
+[2019-05-03 01:32:24.635644]: Exiting bootstrap attempt
+[2019-05-03 01:32:29.635857]: Starting bootstrap attempt
+[2019-05-03 01:32:29.636007]: Bootstrap stopped because there are no peers
+[2019-05-03 01:32:29.666478]: Bootstrap stopped because there are no peers
+[2019-05-03 01:32:29.666520]: Exiting bootstrap attempt

@@ -1,0 +1,12 @@
+
+{
+    "address": "::ffff:127.0.0.1", 
+    "port": "7076", 
+    "enable_control": "true", 
+    "max_json_depth": "20", 
+    "version": "1",
+    "max_request_size": "33554432",
+    "io_threads": "8", 
+    "ipc_port": "46000",
+    "num_ipc_connections": "8"
+}
